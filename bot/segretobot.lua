@@ -225,7 +225,7 @@ function create_config( )
 	"MsgHammer",	
 	"SpamHammer",
     },
-    sudo_users = {208066713,160149610,298405027,tonumber(our_id)},--Sudo users
+    sudo_users = {312600226,192272530(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[<b>Segreto v2</b>
 <i>An advanced administration bot based on</i> <b>TeleSeed</b> <i>written in Lua</i>
